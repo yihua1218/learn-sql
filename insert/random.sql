@@ -1,0 +1,1 @@
+INSERT INTO numbers (number1, number2) VALUES (ROUND(RANDOM()*100), ROUND(RANDOM()*100));
